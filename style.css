@@ -125,7 +125,7 @@ a:hover {
     text-decoration: underline;
 }
 
-#link-rodape {
+.link-rodape {
     text-decoration: none;
     color: rgba(211, 211, 211, 0.884);
 }
